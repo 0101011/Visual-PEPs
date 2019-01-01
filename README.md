@@ -1,2 +1,2 @@
 # Visual PEPs
-☂️ All Python Enhancement Proposals written in short easy-to-grasp form
+☂️ All Python Enhancement Proposals written in short easy-to-grasp code snippets
